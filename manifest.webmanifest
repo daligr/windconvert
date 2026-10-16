@@ -1,0 +1,13 @@
+{
+  "name": "Wind Speed Calc",
+  "short_name": "Wind Speed Calc",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08171f",
+  "theme_color": "#0b7a8f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
